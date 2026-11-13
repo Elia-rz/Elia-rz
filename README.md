@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://elia-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-uxfol.io-3FA796?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://elia-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3FA796?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/eliarezaeian/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://scholar.google.com/citations?user=oTws99AAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 <a href="mailto:eliaarezaeian@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
