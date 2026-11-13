@@ -8,16 +8,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:3FA796&height=190&section=header&text=Elia%20Rezaeian&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Building%20AI%20Systems%20People%20Can%20Trust&descSize=18&descAlignY=58" width="100%" alt="Elia Rezaeian — Building AI Systems People Can Trust"/>
 
-<a href="https://uxfol.io/Eliarezaeian">
+<a href="https://elia-portfolio-eight.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=3FA796&center=true&vCenter=true&width=640&lines=Human-AI+Interaction+Researcher;Explainable+AI+%E2%80%A2+Trust+%E2%80%A2+Decision-Making;Designing+healthcare+AI+for+clinicians+and+patients;PhD+Candidate+%40+Stevens+Institute+of+Technology" alt="Typing intro"/>
 </a>
 
 <br/>
 
-<a href="https://uxfol.io/Eliarezaeian"><img src="https://img.shields.io/badge/Portfolio-uxfol.io-3FA796?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20hi-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://elia-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-uxfol.io-3FA796?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/eliarezaeian/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://scholar.google.com/citations?user=oTws99AAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="mailto:eliaarezaeian@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
